@@ -26,4 +26,6 @@ Acho esse projeto excepcional, pois ele une teoria e prática de forma muito cla
 
 ## Referência
 
-As informações e detalhes deste projeto foram extraídos do documento **"[Relatório_de_esferas.pdf](https://github.com/user-attachments/files/19277719/Relatorio_de_esferas.pdf)"**. citeturn0file0
+As informações e detalhes deste projeto foram extraídos do documento **"[Relatório de esferas](https://github.com/user-attachments/files/19277719/Relatorio_de_esferas.pdf)"**, **"[Medições](https://github.com/user-attachments/files/19278056/Medicoes.-.arquivo_de_esfera.csv.pdf)"**,**"[Resultados](https://github.com/user-attachments/files/19278061/resultados.-.resultados.pdf)"**
+
+ citeturn0file0
